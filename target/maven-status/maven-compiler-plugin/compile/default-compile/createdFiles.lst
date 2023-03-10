@@ -1,0 +1,4 @@
+dto\atm\AtmDAO.class
+dto\incidences\IncidenceDTO.class
+dto\transactions\TransactionDTO.class
+dto\users\UserDTO.class
